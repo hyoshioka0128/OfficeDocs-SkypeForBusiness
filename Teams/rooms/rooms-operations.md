@@ -123,7 +123,7 @@ The console is now back in its normal operation mode. The following procedure re
 
 ## Clearing the Teams Rooms on Windows Cache
 
-To clear cache using the Pro Management Portal, go to **Rooms** and select the display name of the device you want to clear the cache on. In the actions panel, select "Restart device-Clear cache", select "Run", check the "Delete Teams cache?" box, and select "Run". Your Teams Room clears its cache and reboot.
+To clear cache using the Pro Management Portal, go to **Rooms** and select the display name of the device you want to clear the cache on. In the actions panel, select "Restart device-Clear cache", select "Run", check the "Delete Teams cache?" box, and select "Run". Your Teams Rooms clears its cache and reboot.
 
 You can also perform this task directly on the device with these steps:
 
