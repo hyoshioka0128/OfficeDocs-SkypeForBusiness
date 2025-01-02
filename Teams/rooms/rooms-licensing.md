@@ -39,7 +39,7 @@ Microsoft offers two licenses for Teams Rooms systems that participate in Teams 
 
 - You can assign up to 25 Microsoft Teams Rooms Basic licenses to Teams Rooms systems in your organization. If you need to license more than 25 Teams Rooms systems, those additional licenses need to be Teams Rooms Pro licenses. Teams Rooms Basic licenses can be used to license Teams Rooms systems only and not Teams Panels.
 
-A Teams Room system can be one of the following:
+A Teams Rooms system can be one of the following:
 
 - A Teams Rooms on Windows compute module and attached touch console
 - A Teams Rooms on Android device and touch console connected via either an IP-based or USB connection
