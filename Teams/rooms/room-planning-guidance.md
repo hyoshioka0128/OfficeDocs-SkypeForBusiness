@@ -192,7 +192,7 @@ Examples of specific feature deployment:
 
 Signature Teams Rooms aren't meant to be a replacement for all other meeting spaces inside your organization, but rather to act as a supplement to existing meeting spaces that utilize Microsoft Teams. They should be deployed strategically within your organization to the spaces and locations where face-to-face interactions with remote meeting participants will be most valued.
 
-Microsoft Teams Rooms will continue to deliver people-centric hybrid meeting experiences made available through software updates. However, there are hardware technologies and room configuration guidance that play a key role in optimizing some of the Signature Teams Rooms experiences. It's the combination of these components that comprise a Signature Teams Room. When evaluating how many Microsoft Teams Rooms you want to evolve to a Signature Teams Room, consider the following:
+Microsoft Teams Rooms will continue to deliver people-centric hybrid meeting experiences made available through software updates. However, there are hardware technologies and room configuration guidance that play a key role in optimizing some of the Signature Teams Rooms experiences. It's the combination of these components that comprise a Signature Teams Room. When evaluating how many Microsoft Teams Rooms you want to evolve to a Signature Teams Rooms, consider the following:
 
 - What hardware upgrades and/or investments would need to be made.
 
@@ -210,7 +210,7 @@ Our research has shown that remote meetings during the pandemic have had many be
 
 This space is dedicated to the most immersive Teams meeting experience for a small group of people in the physical room.
 
-Just like a typical Microsoft Teams Room, meeting participants are able to meet remotely and locally to work together seamlessly while both presenting and co-creating content.
+Just like a typical Microsoft Teams Rooms, meeting participants are able to meet remotely and locally to work together seamlessly while both presenting and co-creating content.
 
 ### How is this space laid out?
 
@@ -240,9 +240,9 @@ This room is optimized for the Microsoft Teams Rooms layout called front row and
 
 To give people in the room a greater sense of connection to remote participants and support collaboration before, during, and after meetings, Microsoft introduced a new content layout for Microsoft Teams Rooms called front row. Visually, this new layout moves the video gallery to the bottom of the screen and is fixed at a specific ratio to keep faces lifelike in size. With this layout, in-room participants can see remote colleagues face to face across a horizontal plane—similar to if they were in the same room.
 
-Meeting content is surrounded by contextual fluid components like the agenda, tasks, and notes, which can be updated in real time, helping participants stay engaged and productive. Additionally, the meeting chat is brought clearly into view so that when joining a Teams meeting from a Teams Room, you can easily see and engage in the conversation in real time. In a Signature Teams Room, this content is displayed on a wide-aspect-ratio screen to maximize the size of meeting content and the number of participants that can be viewed simultaneously.
+Meeting content is surrounded by contextual fluid components like the agenda, tasks, and notes, which can be updated in real time, helping participants stay engaged and productive. Additionally, the meeting chat is brought clearly into view so that when joining a Teams meeting from a Teams Rooms, you can easily see and engage in the conversation in real time. In a Signature Teams Rooms, this content is displayed on a wide-aspect-ratio screen to maximize the size of meeting content and the number of participants that can be viewed simultaneously.
 
-This layout is supported across both single- and dual-display configurations. While the front row layout is especially impactful in a Signature Teams Room, front row can be used in any Teams Rooms running on Windows, regardless of the furniture and hardware configuration.
+This layout is supported across both single- and dual-display configurations. While the front row layout is especially impactful in a Signature Teams Rooms, front row can be used in any Teams Rooms running on Windows, regardless of the furniture and hardware configuration.
 
 ### How do you co-create content?
 
