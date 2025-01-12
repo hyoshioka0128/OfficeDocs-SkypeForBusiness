@@ -60,7 +60,7 @@ If the displays aren't visible to the Windows PC when in their sleep state, Team
 
 Teams Rooms on Windows support many resolutions, you may find you need to specify the resolution and scale settings to meet your desired configuration. Resolution can be set remotely, see [Remotely configure layout, scale, and resolution on Teams Rooms displays](manage-front-room-scale-res.md) or manually with these steps:
 
-1. On your Teams Room, switch to [admin mode](#switching-to-admin-mode-and-back-when-the-microsoft-teams-rooms-app-is-running)
+1. On your Teams Rooms, switch to [admin mode](#switching-to-admin-mode-and-back-when-the-microsoft-teams-rooms-app-is-running)
 2. Select the start icon. Then **Settings > System > Display**
 3. Go to **Scale and layout**, then **Change the size of text, apps, and other items**, and set the scaling to 100%
 4. Set the display resolution to as desired. If you have dual monitors, set the scale and resolution for both screens
