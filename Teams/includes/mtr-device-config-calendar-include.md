@@ -1,11 +1,11 @@
 
-To help your users more easily schedule meetings in a Teams Room, you can create room lists in Exchange Online. 
+To help your users more easily schedule meetings in a Teams Rooms, you can create room lists in Exchange Online. 
 
 Exchange room lists are used to control which resource accounts (and therefore the Teams Rooms they're associated with) appear in the Room Finder. Room Finder is an Outlook feature that helps users find rooms that are near them, available for reservation, and meet other criteria such as the availability of a display.
 
 Room lists are a special type of Exchange distribution group that lets you group resource accounts (and therefore the Teams Rooms they're associated with) together in a meaningful way. For example, you might want to create room lists for all the rooms in each building on your campus.
 
-Microsoft Places lets you set specific attributes about a resource account and its Teams Room. Some of the attributes you can set are:
+Microsoft Places lets you set specific attributes about a resource account and its Teams Rooms. Some of the attributes you can set are:
 
 - Building
 - City
