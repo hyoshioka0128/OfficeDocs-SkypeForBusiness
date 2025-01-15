@@ -141,7 +141,7 @@ For privacy purposes, meeting names can be hidden from **Teams Rooms (Windows an
 ```xml
 <HideMeetingName>1</HideMeetingName>
 ```
-- On a **Teams Rooms on Android** device, open **Teams Admin Settings** > **Meetings** and toggle **Show meeting names** to Off to hide meeting names on the Teams Room device. 
+- On a **Teams Rooms on Android** device, open **Teams Admin Settings** > **Meetings** and toggle **Show meeting names** to Off to hide meeting names on the Teams Rooms device. 
 
 For increased security in the meeting join experience on a shared device, **Teams Rooms (Windows and Android)** devices support requiring room users to enter the meeting credentials (ID and passcode) before joining scheduled Teams meetings. This feature requires the account on the device to have a Teams Rooms Pro license. To enable this functionality: 
 
